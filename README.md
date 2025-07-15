@@ -6,4 +6,3 @@ This project implements a 3D U-Net architecture to denoise fMRI brain volumes. T
 📊 Input shape: `[1, 40, 64, 64]`  
 📁 Dataset size used: ~24,000 volumes
 
-"# fMRI_project" 
